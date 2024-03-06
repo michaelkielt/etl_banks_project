@@ -1,0 +1,61 @@
+2024-Feb-21-18:29:57 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:29:59 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-18:35:37 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:35:38 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-18:42:09 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:43:30 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:46:44 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:46:44 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-18:49:55 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:49:57 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-18:50:44 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:51:45 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:56:06 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:56:10 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-18:57:09 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:57:09 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-18:57:15 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:57:16 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-18:59:17 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-18:59:18 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-19:01:52 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-19:01:55 : Data extraction complete. Initiating Transformation process
+2024-Feb-21-19:03:12 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-19:05:53 : Preliminaries complete. Initiating ETL process
+2024-Feb-21-19:05:55 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-17:56:37 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-17:56:40 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:09:07 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:09:11 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:09:40 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:09:41 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:10:26 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:10:27 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:14:16 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:14:19 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:14:19 : Data transformation complete. Initiating loading process
+2024-Feb-22-18:25:05 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:25:08 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:25:08 : Data transformation complete. Initiating loading process
+2024-Feb-22-18:25:08 : Data saved to CSV file
+2024-Feb-22-18:31:37 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:31:39 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:31:39 : Data transformation complete. Initiating loading process
+2024-Feb-22-18:31:39 : Data saved to CSV file
+2024-Feb-22-18:31:39 : SQL Connection initiated.
+2024-Feb-22-18:31:39 : Data loaded to Database as table. Running the query
+2024-Feb-22-18:31:39 : Process Complete.
+2024-Feb-22-18:34:35 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:34:36 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:34:36 : Data transformation complete. Initiating loading process
+2024-Feb-22-18:34:36 : Data saved to CSV file
+2024-Feb-22-18:34:36 : SQL Connection initiated.
+2024-Feb-22-18:34:36 : Data loaded to Database as table. Running the query
+2024-Feb-22-18:34:36 : Process Complete.
+2024-Feb-22-18:35:00 : Preliminaries complete. Initiating ETL process
+2024-Feb-22-18:35:01 : Data extraction complete. Initiating Transformation process
+2024-Feb-22-18:35:01 : Data transformation complete. Initiating loading process
+2024-Feb-22-18:35:01 : Data saved to CSV file
+2024-Feb-22-18:35:01 : SQL Connection initiated.
+2024-Feb-22-18:35:01 : Data loaded to Database as table. Running the query
+2024-Feb-22-18:35:01 : Process Complete.
